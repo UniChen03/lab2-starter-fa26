@@ -34,4 +34,5 @@ int main(int argc, char *argv[]) {
   char b6 = 0b00000011;  
   char c6 = 0b01010000;
   assert((a6 << b6) == c6);
+  
 }
